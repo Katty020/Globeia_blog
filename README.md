@@ -31,3 +31,4 @@ This is a simple Blog Dashboard built with Next.js, TypeScript and Framer Motion
    git clone https://github.com/your-username/blog-dashboard.git
 2. cd blog-dashboard
 3. npm install
+4. npm run dev
